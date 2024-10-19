@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ###
 
-<h3 align="left">🌱 I’m currently learning web development on</h3> 
+<h4 align="left">I’m currently learning web development on:</h4> 
 
 ###
 
