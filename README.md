@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 👋 Hi
 -->
 ###
-<!--
+
 <h3 align="left">🌱 I’m currently learning web development on</h3> 
 
 ###
--->
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
