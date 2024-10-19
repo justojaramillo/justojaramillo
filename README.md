@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👋 Hi
 -->
 ###
-
+<br>
 <h4 align="left">I’m currently learning web development on</h4> 
 
 ###
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<br><br>
+<br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=justojaramillo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justojaramillo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
