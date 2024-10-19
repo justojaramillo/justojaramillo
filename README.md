@@ -1,4 +1,4 @@
-<h2 align="left">Hi My name is Justo Jaramillo and I'm a developer, from Colombia.</h2>
+<h1 align="left">Hi My name is Justo Jaramillo and I'm a developer, from Colombia.</h1>
 
 <!--
 **justojaramillo/justojaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 👋 Hi
 -->
 ###
-<br>
 <h4 align="left">I’m currently learning web development on</h4> 
 
 ###
