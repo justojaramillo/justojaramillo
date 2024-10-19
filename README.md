@@ -1,4 +1,4 @@
-<h1 align="left">Hi My name is Justo Jaramillo and I'm a developer, from Colombia.</h1>
+<h2 align="left">Hi My name is Justo Jaramillo and I'm a developer, from Colombia.</h2>
 
 <!--
 **justojaramillo/justojaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 👋 Hi
 -->
 ###
+
 <h4 align="left">I’m currently learning web development on</h4> 
 
 ###
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 
 ###
 <br>
+<h4 align="left">My stats</h4> 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=justojaramillo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justojaramillo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
